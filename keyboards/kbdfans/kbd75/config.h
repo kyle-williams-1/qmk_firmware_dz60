@@ -47,4 +47,8 @@
 #define RGBLIGHT_SLEEP
 /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 #define RGBLIGHT_SLEEP
+// custom
+// #define RGBLIGHT_LIMIT_VAL 5
+// #define RGBLIGHT_EFFECT_BREATHE_MAX 1
+#define RGBLIGHT_EFFECT_BREATHE_CENTER 1.0
 #endif
